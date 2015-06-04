@@ -4,8 +4,7 @@ import csv
 import fyp11
 import subprocess
 result=open('res.txt','w+')
-''''lis=[]
-lis=ip.get_fun_names()'''
+
 class Window(Frame):       
         def __init__(self):
                 Frame.__init__(self)
