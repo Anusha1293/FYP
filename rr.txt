@@ -1,0 +1,15 @@
+Ready Reckoner
+
+These are the reference rules and the assumptions we make in the program:
+1. This program works only for a fixed number of constructs.
+2. The constructs checked are 'for', 'declaration','while','if','else','function definition','function prototype','printf','scanf','assignment statements' and 'semi colon'.
+3. Code checks only C language.
+4. The function prototypes must be provided in the beginning of the benchmark file.
+5. The student code must adhere to the constraints imposed by the teacher.
+6. The total or the maximum marks assigned will be 5*(number of function prototypes including main)+10; where 10 marks is for sucessful execution of the program.
+
+Grading Scheme
+1. Error in any of the loop definitions: -1
+2. Error in declaration: -0.5
+3. Error in printf or scanf: -0.25
+4. Mismatch in the number of left and right parenthesis: -1
